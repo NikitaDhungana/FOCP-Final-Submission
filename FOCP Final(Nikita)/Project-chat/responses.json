@@ -1,0 +1,12 @@
+{
+    "coffee": ["The coffee bar is open from 8 AM to 5 PM, {name}."],
+    "library": ["The library is open 24/7 for students."],
+    "admissions": ["Admissions can be reached at admissions@poppleton.edu."],
+    "sports": ["Our sports facilities are top-notch! Do you like football, {name}?"],
+    "events": ["Check out the events calendar on our website."],
+    "fees": ["Fees vary by course. Visit the finance section of our website, {name}."],
+    "parking": ["Parking passes can be obtained from the transport office."],
+    "health": ["The health center is open 9 AM to 4 PM, {name}.", "Counseling services are available by appointment, {name}."],
+    "clubs": ["We have different clubs for student, {name}. Join one today!", "Want to start your own club, {name}? Visit the student activities office."],
+    "exam": ["The timely schedule for exams of respective department can be found in student portal"]
+}

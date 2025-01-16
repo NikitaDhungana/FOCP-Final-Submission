@@ -1,0 +1,5 @@
+door
+cake
+laptop
+book
+fruit
